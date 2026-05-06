@@ -3,4 +3,4 @@ Interactive Tableau dashboard created for the Makeover Monday community challeng
 
 ## Live Dashboard
 View the interactive dashboard on Tableau Public:
-[Open Dashboard]((https://public.tableau.com/views/HowCommonisyourBirthday_16413880462680/Dashboard13?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Open Dashboard](https://public.tableau.com/views/HowCommonisyourBirthday_16413880462680/Dashboard13?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
